@@ -1,0 +1,20 @@
+﻿item.hatchetWood.name=§6神奇的小木斧
+potion.damageBoost=§4§l纯力量
+
+item.unbreakable=§6§l永不磨损
+
+attribute.name.generic.attackDamage=§9净化
+
+deathScreen.title=您去世了
+deathScreen.respawn=我还想再活五百年
+deathScreen.title.hardcore=心肺停止!
+deathScreen.deleteWorld=Say good bye~
+
+death.attack.generic=%1$s 去世了,享年xx岁
+death.attack.explosion=%1$s 被炸得螺旋升天
+death.attack.magic=%1$s 被老爹的魔咒所封印
+death.attack.drown=%1$s 被水淹没，不知所措
+
+
+
+
